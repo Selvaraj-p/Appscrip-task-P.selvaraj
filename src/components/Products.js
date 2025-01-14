@@ -171,7 +171,7 @@ const Products = () => {
   //   performSearch(searchData);
   // }, [searchData]);
 
-  // TODO: CRIO_TASK_MODULE_PRODUCTS - Implement search logic
+  // PRODUCTS - search logic
   /**
    * Definition for search handler
    * This is the function that is called on adding new search keys
